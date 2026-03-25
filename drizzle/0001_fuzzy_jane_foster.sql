@@ -1,0 +1,1 @@
+ALTER TABLE "todos" ADD COLUMN "rank" integer NOT NULL;

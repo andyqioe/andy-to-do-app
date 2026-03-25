@@ -1,0 +1,1 @@
+ALTER TABLE "todos" ALTER COLUMN "rank" SET DEFAULT 0;
